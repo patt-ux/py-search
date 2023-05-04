@@ -1,0 +1,23 @@
+{
+  "name": "py-search",
+  "version": "1.0.0",
+  "description": "Electron wrapped python search",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patt-ux/py-search.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patt-ux/py-search/issues"
+  },
+  "homepage": "https://github.com/patt-ux/py-search#readme",
+  "dependencies": {
+    "electron": "^24.2.0"
+  }
+}
